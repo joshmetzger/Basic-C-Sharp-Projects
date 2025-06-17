@@ -1,0 +1,7 @@
+C:\Users\joshmetzger\Desktop\Basic_C#_Programs\BoolComp\BoolComp\bin\Debug\BoolComp.exe.config
+C:\Users\joshmetzger\Desktop\Basic_C#_Programs\BoolComp\BoolComp\bin\Debug\BoolComp.exe
+C:\Users\joshmetzger\Desktop\Basic_C#_Programs\BoolComp\BoolComp\bin\Debug\BoolComp.pdb
+C:\Users\joshmetzger\Desktop\Basic_C#_Programs\BoolComp\BoolComp\obj\Debug\BoolComp.csproj.AssemblyReference.cache
+C:\Users\joshmetzger\Desktop\Basic_C#_Programs\BoolComp\BoolComp\obj\Debug\BoolComp.csproj.CoreCompileInputs.cache
+C:\Users\joshmetzger\Desktop\Basic_C#_Programs\BoolComp\BoolComp\obj\Debug\BoolComp.exe
+C:\Users\joshmetzger\Desktop\Basic_C#_Programs\BoolComp\BoolComp\obj\Debug\BoolComp.pdb
