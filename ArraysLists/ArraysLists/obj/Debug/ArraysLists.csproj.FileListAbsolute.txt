@@ -1,0 +1,7 @@
+C:\Users\joshmetzger\Desktop\Basic_C#_Programs\ArraysLists\ArraysLists\bin\Debug\ArraysLists.exe.config
+C:\Users\joshmetzger\Desktop\Basic_C#_Programs\ArraysLists\ArraysLists\bin\Debug\ArraysLists.exe
+C:\Users\joshmetzger\Desktop\Basic_C#_Programs\ArraysLists\ArraysLists\bin\Debug\ArraysLists.pdb
+C:\Users\joshmetzger\Desktop\Basic_C#_Programs\ArraysLists\ArraysLists\obj\Debug\ArraysLists.csproj.AssemblyReference.cache
+C:\Users\joshmetzger\Desktop\Basic_C#_Programs\ArraysLists\ArraysLists\obj\Debug\ArraysLists.csproj.CoreCompileInputs.cache
+C:\Users\joshmetzger\Desktop\Basic_C#_Programs\ArraysLists\ArraysLists\obj\Debug\ArraysLists.exe
+C:\Users\joshmetzger\Desktop\Basic_C#_Programs\ArraysLists\ArraysLists\obj\Debug\ArraysLists.pdb

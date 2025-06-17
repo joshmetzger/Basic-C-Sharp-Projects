@@ -11,11 +11,9 @@ namespace AnonymousIncomeComparison
         static void Main(string[] args)
         {
             Console.WriteLine("Anonymous Income Comparison Program");
-            Console.ReadLine();
 
             // gather person1 info
             Console.WriteLine("Person1");
-            Console.ReadLine();
 
             Console.WriteLine("Enter your hourly rate: ");
             string rate1 = Console.ReadLine();
@@ -26,7 +24,6 @@ namespace AnonymousIncomeComparison
 
             // gather person2 info
             Console.WriteLine("Person2");
-            Console.ReadLine();
 
             Console.WriteLine("Enter your hourly rate: ");
             string rate2 = Console.ReadLine();
@@ -42,7 +39,6 @@ namespace AnonymousIncomeComparison
 
             //print to screen
             Console.WriteLine("Person1 salary is: " + p1salary);
-            Console.ReadLine();
 
 
             //convert to num and calculate annual salary person2
@@ -53,7 +49,6 @@ namespace AnonymousIncomeComparison
 
             //print to screen
             Console.WriteLine("Person2 salary is: " + p2salary);
-            Console.ReadLine();
 
 
             //compare and print to screen
@@ -61,9 +56,7 @@ namespace AnonymousIncomeComparison
             string salaryCompare = Convert.ToString(compare);
 
             Console.WriteLine("Does Person 1 make more money than Person 2?");
-            Console.ReadLine();
             Console.WriteLine(salaryCompare);
-            Console.ReadLine();
 
 
 
