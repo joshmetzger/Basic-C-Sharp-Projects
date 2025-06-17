@@ -49,7 +49,45 @@ namespace BoolComp
                 }
             }
             while (!isGuessed);
+
+            // begin prgram with winning animal name. isGuessed true if guess =  salamander.
+            Console.WriteLine("Guess the animal: ");
+            guess = Console.ReadLine();
+            isGuessed = guess == "salamander";
+            while (!isGuessed)
+            {
+                switch (guess)
+                {
+                    case "cat":
+                        Console.WriteLine("wrong animal, not cat, guess again");
+                        Console.WriteLine("Guess the animal: ");
+                        guess = Console.ReadLine();
+                        break;
+                    case "hippo":
+                        Console.WriteLine("wrong animal, not hippo, guess again");
+                        Console.WriteLine("Guess the animal: ");
+                        guess = Console.ReadLine();
+                        break;
+                    case "squid":
+                        Console.WriteLine("wrong animal, not squid, guess again");
+                        Console.WriteLine("Guess the animal: ");
+                        guess = Console.ReadLine();
+                        break;
+                    // once isGuessed is true, end program.
+                    case "salamander":
+                        Console.WriteLine("Correct! it is salamander.");
+                        isGuessed = true;
+                        break;
+                    default:
+                        Console.WriteLine("wrong animal guess again");
+                        Console.WriteLine("Guess the animal: ");
+                        guess = Console.ReadLine();
+                        break;
+
+                }
+            }
             
+
         }
     }
 }
