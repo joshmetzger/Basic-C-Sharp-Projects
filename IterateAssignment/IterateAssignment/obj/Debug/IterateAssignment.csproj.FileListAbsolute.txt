@@ -1,0 +1,7 @@
+C:\Users\joshmetzger\Desktop\Basic_C#_Programs\IterateAssignment\IterateAssignment\bin\Debug\IterateAssignment.exe.config
+C:\Users\joshmetzger\Desktop\Basic_C#_Programs\IterateAssignment\IterateAssignment\bin\Debug\IterateAssignment.exe
+C:\Users\joshmetzger\Desktop\Basic_C#_Programs\IterateAssignment\IterateAssignment\bin\Debug\IterateAssignment.pdb
+C:\Users\joshmetzger\Desktop\Basic_C#_Programs\IterateAssignment\IterateAssignment\obj\Debug\IterateAssignment.csproj.AssemblyReference.cache
+C:\Users\joshmetzger\Desktop\Basic_C#_Programs\IterateAssignment\IterateAssignment\obj\Debug\IterateAssignment.csproj.CoreCompileInputs.cache
+C:\Users\joshmetzger\Desktop\Basic_C#_Programs\IterateAssignment\IterateAssignment\obj\Debug\IterateAssignment.exe
+C:\Users\joshmetzger\Desktop\Basic_C#_Programs\IterateAssignment\IterateAssignment\obj\Debug\IterateAssignment.pdb

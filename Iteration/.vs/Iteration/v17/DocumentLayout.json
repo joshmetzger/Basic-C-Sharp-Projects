@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\joshmetzger\\Desktop\\Basic_C#_Programs\\Iteration\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA72D2EC-A2F9-4F9D-82CF-4AC91BAE1DD5}|Iteration\\Iteration.csproj|c:\\users\\joshmetzger\\desktop\\basic_c#_programs\\iteration\\iteration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA72D2EC-A2F9-4F9D-82CF-4AC91BAE1DD5}|Iteration\\Iteration.csproj|solutionrelative:iteration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\joshmetzger\\Desktop\\Basic_C#_Programs\\Iteration\\Iteration\\Program.cs",
+              "RelativeDocumentMoniker": "Iteration\\Program.cs",
+              "ToolTip": "C:\\Users\\joshmetzger\\Desktop\\Basic_C#_Programs\\Iteration\\Iteration\\Program.cs",
+              "RelativeToolTip": "Iteration\\Program.cs",
+              "ViewState": "AgIAABAAAACANTMzMxMwwDcAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T19:19:44.871Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
