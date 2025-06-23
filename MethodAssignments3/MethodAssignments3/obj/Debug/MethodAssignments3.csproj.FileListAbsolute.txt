@@ -1,0 +1,7 @@
+C:\Users\joshmetzger\Desktop\Basic_C#_Programs\MethodAssignments3\MethodAssignments3\bin\Debug\MethodAssignments3.exe.config
+C:\Users\joshmetzger\Desktop\Basic_C#_Programs\MethodAssignments3\MethodAssignments3\bin\Debug\MethodAssignments3.exe
+C:\Users\joshmetzger\Desktop\Basic_C#_Programs\MethodAssignments3\MethodAssignments3\bin\Debug\MethodAssignments3.pdb
+C:\Users\joshmetzger\Desktop\Basic_C#_Programs\MethodAssignments3\MethodAssignments3\obj\Debug\MethodAssignments3.csproj.AssemblyReference.cache
+C:\Users\joshmetzger\Desktop\Basic_C#_Programs\MethodAssignments3\MethodAssignments3\obj\Debug\MethodAssignments3.csproj.CoreCompileInputs.cache
+C:\Users\joshmetzger\Desktop\Basic_C#_Programs\MethodAssignments3\MethodAssignments3\obj\Debug\MethodAssignments3.exe
+C:\Users\joshmetzger\Desktop\Basic_C#_Programs\MethodAssignments3\MethodAssignments3\obj\Debug\MethodAssignments3.pdb

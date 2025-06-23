@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{CA822BA6-F4F3-460A-979C-562B468AC50F}|MethodsAssignment2\\MethodsAssignment2.csproj|solutionrelative:methodsassignment2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA822BA6-F4F3-460A-979C-562B468AC50F}|MethodsAssignment2\\MethodsAssignment2.csproj|c:\\users\\joshmetzger\\desktop\\basic_c#_programs\\methodsassignment2\\methodsassignment2\\mymath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CA822BA6-F4F3-460A-979C-562B468AC50F}|MethodsAssignment2\\MethodsAssignment2.csproj|C:\\Users\\joshmetzger\\Desktop\\Basic_C#_Programs\\MethodsAssignment2\\methodsassignment2\\mymath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CA822BA6-F4F3-460A-979C-562B468AC50F}|MethodsAssignment2\\MethodsAssignment2.csproj|solutionrelative:methodsassignment2\\mymath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -30,8 +30,7 @@
               "RelativeToolTip": "MethodsAssignment2\\MyMath.cs",
               "ViewState": "AgIAAAIAAAAAzczMzMwnwBUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-20T15:39:07.371Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-20T15:39:07.371Z"
             },
             {
               "$type": "Document",
