@@ -1,0 +1,7 @@
+C:\Users\joshmetzger\Desktop\Basic_C#_Programs\MethodsAssignment2\MethodsAssignment2\bin\Debug\MethodsAssignment2.exe.config
+C:\Users\joshmetzger\Desktop\Basic_C#_Programs\MethodsAssignment2\MethodsAssignment2\bin\Debug\MethodsAssignment2.exe
+C:\Users\joshmetzger\Desktop\Basic_C#_Programs\MethodsAssignment2\MethodsAssignment2\bin\Debug\MethodsAssignment2.pdb
+C:\Users\joshmetzger\Desktop\Basic_C#_Programs\MethodsAssignment2\MethodsAssignment2\obj\Debug\MethodsAssignment2.csproj.AssemblyReference.cache
+C:\Users\joshmetzger\Desktop\Basic_C#_Programs\MethodsAssignment2\MethodsAssignment2\obj\Debug\MethodsAssignment2.csproj.CoreCompileInputs.cache
+C:\Users\joshmetzger\Desktop\Basic_C#_Programs\MethodsAssignment2\MethodsAssignment2\obj\Debug\MethodsAssignment2.exe
+C:\Users\joshmetzger\Desktop\Basic_C#_Programs\MethodsAssignment2\MethodsAssignment2\obj\Debug\MethodsAssignment2.pdb
