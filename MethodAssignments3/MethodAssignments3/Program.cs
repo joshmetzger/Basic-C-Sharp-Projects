@@ -10,10 +10,6 @@ namespace MethodAssignments3
     {
         static void Main(string[] args)
         {
-            //use MyMath class method to add two integers:
-            //int sum = MyMath.Add(2);
-            //Console.WriteLine(sum);
-
             // prompt user to enter integers. ony the first integer is required.
             Console.WriteLine("You will be prompted to enter two integers. only the first integer is required, you can skip the second one." +
                 "Enter an integer: ");
