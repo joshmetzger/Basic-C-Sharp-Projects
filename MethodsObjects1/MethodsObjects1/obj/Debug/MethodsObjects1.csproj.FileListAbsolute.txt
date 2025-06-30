@@ -1,0 +1,7 @@
+C:\Users\joshmetzger\Desktop\Basic_C#_Programs\MethodsObjects1\MethodsObjects1\bin\Debug\MethodsObjects1.exe.config
+C:\Users\joshmetzger\Desktop\Basic_C#_Programs\MethodsObjects1\MethodsObjects1\bin\Debug\MethodsObjects1.exe
+C:\Users\joshmetzger\Desktop\Basic_C#_Programs\MethodsObjects1\MethodsObjects1\bin\Debug\MethodsObjects1.pdb
+C:\Users\joshmetzger\Desktop\Basic_C#_Programs\MethodsObjects1\MethodsObjects1\obj\Debug\MethodsObjects1.csproj.AssemblyReference.cache
+C:\Users\joshmetzger\Desktop\Basic_C#_Programs\MethodsObjects1\MethodsObjects1\obj\Debug\MethodsObjects1.csproj.CoreCompileInputs.cache
+C:\Users\joshmetzger\Desktop\Basic_C#_Programs\MethodsObjects1\MethodsObjects1\obj\Debug\MethodsObjects1.exe
+C:\Users\joshmetzger\Desktop\Basic_C#_Programs\MethodsObjects1\MethodsObjects1\obj\Debug\MethodsObjects1.pdb
