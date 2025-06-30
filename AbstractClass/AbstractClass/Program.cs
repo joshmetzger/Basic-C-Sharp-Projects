@@ -19,6 +19,11 @@ namespace AbstractClass
             // call the method on the object
             employee1.SayName();
 
+            // create IQuittable object, call the Quit method from the interface.
+            IQuittable quittable = new Employee();
+            quittable.Quit();
+
+
         }
     }
 }
