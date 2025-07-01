@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\joshmetzger\\Desktop\\Basic_C#_Programs\\AbstractClass\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B863D693-D969-4407-B196-0B2D920A68E4}|AbstractClass\\AbstractClass.csproj|C:\\Users\\joshmetzger\\Desktop\\Basic_C#_Programs\\AbstractClass\\abstractclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B863D693-D969-4407-B196-0B2D920A68E4}|AbstractClass\\AbstractClass.csproj|c:\\users\\joshmetzger\\desktop\\basic_c#_programs\\abstractclass\\abstractclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B863D693-D969-4407-B196-0B2D920A68E4}|AbstractClass\\AbstractClass.csproj|solutionrelative:abstractclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B863D693-D969-4407-B196-0B2D920A68E4}|AbstractClass\\AbstractClass.csproj|c:\\users\\joshmetzger\\desktop\\basic_c#_programs\\abstractclass\\abstractclass\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B863D693-D969-4407-B196-0B2D920A68E4}|AbstractClass\\AbstractClass.csproj|C:\\Users\\joshmetzger\\Desktop\\Basic_C#_Programs\\AbstractClass\\abstractclass\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B863D693-D969-4407-B196-0B2D920A68E4}|AbstractClass\\AbstractClass.csproj|solutionrelative:abstractclass\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -48,7 +48,7 @@
               "RelativeDocumentMoniker": "AbstractClass\\Employee.cs",
               "ToolTip": "C:\\Users\\joshmetzger\\Desktop\\Basic_C#_Programs\\AbstractClass\\AbstractClass\\Employee.cs",
               "RelativeToolTip": "AbstractClass\\Employee.cs",
-              "ViewState": "AgIAAAgAAABAmpmZmRk8wA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-30T16:53:26.964Z",
               "EditorCaption": ""
@@ -63,8 +63,7 @@
               "RelativeToolTip": "AbstractClass\\Person.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-30T16:51:57.565Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-30T16:51:57.565Z"
             },
             {
               "$type": "Document",
@@ -74,7 +73,7 @@
               "RelativeDocumentMoniker": "AbstractClass\\Program.cs",
               "ToolTip": "C:\\Users\\joshmetzger\\Desktop\\Basic_C#_Programs\\AbstractClass\\AbstractClass\\Program.cs",
               "RelativeToolTip": "AbstractClass\\Program.cs",
-              "ViewState": "AgIAAAQAAABgZ2ZmZuYcwBwAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAABwAAADAAAAAAMAtwDYAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-30T16:51:25.84Z",
               "EditorCaption": ""

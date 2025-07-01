@@ -6,13 +6,10 @@ using System.Threading.Tasks;
 
 namespace AbstractClass
 {
-    class Employee : Person, IQuittable
+    class Employee<T> : Person, IQuittable
     {
         public int Id { get; set; }
-
-        // first and last name are inheritted from Person currently..
-        // public string firstName { get; set; }
-        // public string lastName { get; set; }
+        public List<T> things { get; set; } = new List<T>();
 
         // method that can overrides it's parent method
         public override void SayName()
@@ -28,16 +25,16 @@ namespace AbstractClass
         }
 
         //overload == operator to compare Id
-        public static bool operator ==(Employee a, Employee b)
-        {
-            return a.Id == b.Id;
-        }
+        //public static bool operator ==(Employee a, Employee b)
+        //{
+        //    return a.Id == b.Id;
+        //}
 
         //need the opposite: overload != operator to compare Id
-        public static bool operator !=(Employee a, Employee b)
-        {
-            return !(a.Id == b.Id);
-        }
+        //public static bool operator !=(Employee a, Employee b)
+        //{
+        //    return !(a.Id == b.Id);
+        //}
 
     }
 }
