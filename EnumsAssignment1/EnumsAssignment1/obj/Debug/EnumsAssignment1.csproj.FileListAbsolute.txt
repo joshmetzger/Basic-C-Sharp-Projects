@@ -1,0 +1,7 @@
+C:\Users\joshmetzger\Desktop\Basic_C#_Programs\EnumsAssignment1\EnumsAssignment1\bin\Debug\EnumsAssignment1.exe.config
+C:\Users\joshmetzger\Desktop\Basic_C#_Programs\EnumsAssignment1\EnumsAssignment1\bin\Debug\EnumsAssignment1.exe
+C:\Users\joshmetzger\Desktop\Basic_C#_Programs\EnumsAssignment1\EnumsAssignment1\bin\Debug\EnumsAssignment1.pdb
+C:\Users\joshmetzger\Desktop\Basic_C#_Programs\EnumsAssignment1\EnumsAssignment1\obj\Debug\EnumsAssignment1.csproj.AssemblyReference.cache
+C:\Users\joshmetzger\Desktop\Basic_C#_Programs\EnumsAssignment1\EnumsAssignment1\obj\Debug\EnumsAssignment1.csproj.CoreCompileInputs.cache
+C:\Users\joshmetzger\Desktop\Basic_C#_Programs\EnumsAssignment1\EnumsAssignment1\obj\Debug\EnumsAssignment1.exe
+C:\Users\joshmetzger\Desktop\Basic_C#_Programs\EnumsAssignment1\EnumsAssignment1\obj\Debug\EnumsAssignment1.pdb

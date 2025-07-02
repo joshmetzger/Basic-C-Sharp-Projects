@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\joshmetzger\\Desktop\\Basic_C#_Programs\\EnumsAssignment1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0DFB28C0-1512-449B-A88C-32DC0A844FB2}|EnumsAssignment1\\EnumsAssignment1.csproj|c:\\users\\joshmetzger\\desktop\\basic_c#_programs\\enumsassignment1\\enumsassignment1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DFB28C0-1512-449B-A88C-32DC0A844FB2}|EnumsAssignment1\\EnumsAssignment1.csproj|solutionrelative:enumsassignment1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DFB28C0-1512-449B-A88C-32DC0A844FB2}|EnumsAssignment1\\EnumsAssignment1.csproj|c:\\users\\joshmetzger\\desktop\\basic_c#_programs\\enumsassignment1\\enumsassignment1\\days.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DFB28C0-1512-449B-A88C-32DC0A844FB2}|EnumsAssignment1\\EnumsAssignment1.csproj|solutionrelative:enumsassignment1\\days.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Days.cs",
+              "DocumentMoniker": "C:\\Users\\joshmetzger\\Desktop\\Basic_C#_Programs\\EnumsAssignment1\\EnumsAssignment1\\Days.cs",
+              "RelativeDocumentMoniker": "EnumsAssignment1\\Days.cs",
+              "ToolTip": "C:\\Users\\joshmetzger\\Desktop\\Basic_C#_Programs\\EnumsAssignment1\\EnumsAssignment1\\Days.cs",
+              "RelativeToolTip": "EnumsAssignment1\\Days.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T16:52:54.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\joshmetzger\\Desktop\\Basic_C#_Programs\\EnumsAssignment1\\EnumsAssignment1\\Program.cs",
+              "RelativeDocumentMoniker": "EnumsAssignment1\\Program.cs",
+              "ToolTip": "C:\\Users\\joshmetzger\\Desktop\\Basic_C#_Programs\\EnumsAssignment1\\EnumsAssignment1\\Program.cs",
+              "RelativeToolTip": "EnumsAssignment1\\Program.cs",
+              "ViewState": "AgIAAAkAAACAZ2ZmZuYbwCQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T16:31:35.095Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
