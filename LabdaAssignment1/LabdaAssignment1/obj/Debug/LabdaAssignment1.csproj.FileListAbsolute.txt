@@ -1,0 +1,7 @@
+C:\Users\joshmetzger\Desktop\Basic_C#_Programs\LabdaAssignment1\LabdaAssignment1\bin\Debug\LabdaAssignment1.exe.config
+C:\Users\joshmetzger\Desktop\Basic_C#_Programs\LabdaAssignment1\LabdaAssignment1\bin\Debug\LabdaAssignment1.exe
+C:\Users\joshmetzger\Desktop\Basic_C#_Programs\LabdaAssignment1\LabdaAssignment1\bin\Debug\LabdaAssignment1.pdb
+C:\Users\joshmetzger\Desktop\Basic_C#_Programs\LabdaAssignment1\LabdaAssignment1\obj\Debug\LabdaAssignment1.csproj.AssemblyReference.cache
+C:\Users\joshmetzger\Desktop\Basic_C#_Programs\LabdaAssignment1\LabdaAssignment1\obj\Debug\LabdaAssignment1.csproj.CoreCompileInputs.cache
+C:\Users\joshmetzger\Desktop\Basic_C#_Programs\LabdaAssignment1\LabdaAssignment1\obj\Debug\LabdaAssignment1.exe
+C:\Users\joshmetzger\Desktop\Basic_C#_Programs\LabdaAssignment1\LabdaAssignment1\obj\Debug\LabdaAssignment1.pdb

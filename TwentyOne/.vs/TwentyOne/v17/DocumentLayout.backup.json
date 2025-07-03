@@ -3,11 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\joshmetzger\\Desktop\\Basic_C#_Programs\\TwentyOne\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CE513C53-B110-4555-B6BC-277F095526A7}|TwentyOne\\TwentyOne.csproj|C:\\Users\\joshmetzger\\Desktop\\Basic_C#_Programs\\TwentyOne\\twentyone\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CE513C53-B110-4555-B6BC-277F095526A7}|TwentyOne\\TwentyOne.csproj|solutionrelative:twentyone\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CE513C53-B110-4555-B6BC-277F095526A7}|TwentyOne\\TwentyOne.csproj|C:\\Users\\joshmetzger\\Desktop\\Basic_C#_Programs\\TwentyOne\\twentyone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CE513C53-B110-4555-B6BC-277F095526A7}|TwentyOne\\TwentyOne.csproj|c:\\users\\joshmetzger\\desktop\\basic_c#_programs\\twentyone\\twentyone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CE513C53-B110-4555-B6BC-277F095526A7}|TwentyOne\\TwentyOne.csproj|solutionrelative:twentyone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -15,11 +11,19 @@
       "RelativeMoniker": "D:0:0:{CE513C53-B110-4555-B6BC-277F095526A7}|TwentyOne\\TwentyOne.csproj|solutionrelative:twentyone\\deck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{CE513C53-B110-4555-B6BC-277F095526A7}|TwentyOne\\TwentyOne.csproj|c:\\users\\joshmetzger\\desktop\\basic_c#_programs\\twentyone\\twentyone\\number.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE513C53-B110-4555-B6BC-277F095526A7}|TwentyOne\\TwentyOne.csproj|solutionrelative:twentyone\\number.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE513C53-B110-4555-B6BC-277F095526A7}|TwentyOne\\TwentyOne.csproj|C:\\Users\\joshmetzger\\Desktop\\Basic_C#_Programs\\TwentyOne\\twentyone\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE513C53-B110-4555-B6BC-277F095526A7}|TwentyOne\\TwentyOne.csproj|solutionrelative:twentyone\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CE513C53-B110-4555-B6BC-277F095526A7}|TwentyOne\\TwentyOne.csproj|C:\\Users\\joshmetzger\\Desktop\\Basic_C#_Programs\\TwentyOne\\twentyone\\twentyonegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CE513C53-B110-4555-B6BC-277F095526A7}|TwentyOne\\TwentyOne.csproj|solutionrelative:twentyone\\twentyonegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CE513C53-B110-4555-B6BC-277F095526A7}|TwentyOne\\TwentyOne.csproj|c:\\users\\joshmetzger\\desktop\\basic_c#_programs\\twentyone\\twentyone\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CE513C53-B110-4555-B6BC-277F095526A7}|TwentyOne\\TwentyOne.csproj|C:\\Users\\joshmetzger\\Desktop\\Basic_C#_Programs\\TwentyOne\\twentyone\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CE513C53-B110-4555-B6BC-277F095526A7}|TwentyOne\\TwentyOne.csproj|solutionrelative:twentyone\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -34,11 +38,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
+              "Title": "Number.cs",
+              "DocumentMoniker": "C:\\Users\\joshmetzger\\Desktop\\Basic_C#_Programs\\TwentyOne\\TwentyOne\\Number.cs",
+              "RelativeDocumentMoniker": "TwentyOne\\Number.cs",
+              "ToolTip": "C:\\Users\\joshmetzger\\Desktop\\Basic_C#_Programs\\TwentyOne\\TwentyOne\\Number.cs",
+              "RelativeToolTip": "TwentyOne\\Number.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T16:41:40.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Player.cs",
               "DocumentMoniker": "C:\\Users\\joshmetzger\\Desktop\\Basic_C#_Programs\\TwentyOne\\TwentyOne\\Player.cs",
               "RelativeDocumentMoniker": "TwentyOne\\Player.cs",
@@ -46,12 +63,11 @@
               "RelativeToolTip": "TwentyOne\\Player.cs",
               "ViewState": "AgIAAAIAAABAzczMzMwwwA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-30T16:17:23.525Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-30T16:17:23.525Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "TwentyOneGame.cs",
               "DocumentMoniker": "C:\\Users\\joshmetzger\\Desktop\\Basic_C#_Programs\\TwentyOne\\TwentyOne\\TwentyOneGame.cs",
               "RelativeDocumentMoniker": "TwentyOne\\TwentyOneGame.cs",
@@ -59,12 +75,11 @@
               "RelativeToolTip": "TwentyOne\\TwentyOneGame.cs",
               "ViewState": "AgIAAAEAAADAZ2ZmZuYcwBMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T18:03:53.949Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-25T18:03:53.949Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Game.cs",
               "DocumentMoniker": "C:\\Users\\joshmetzger\\Desktop\\Basic_C#_Programs\\TwentyOne\\TwentyOne\\Game.cs",
               "RelativeDocumentMoniker": "TwentyOne\\Game.cs",
@@ -76,39 +91,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Deck.cs",
               "DocumentMoniker": "C:\\Users\\joshmetzger\\Desktop\\Basic_C#_Programs\\TwentyOne\\TwentyOne\\Deck.cs",
               "RelativeDocumentMoniker": "TwentyOne\\Deck.cs",
               "ToolTip": "C:\\Users\\joshmetzger\\Desktop\\Basic_C#_Programs\\TwentyOne\\TwentyOne\\Deck.cs",
               "RelativeToolTip": "TwentyOne\\Deck.cs",
-              "ViewState": "AgIAAAcAAAAwbmZmZiYlwBQAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAASwBUAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-19T17:10:31.949Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Card.cs",
               "DocumentMoniker": "C:\\Users\\joshmetzger\\Desktop\\Basic_C#_Programs\\TwentyOne\\TwentyOne\\Card.cs",
               "RelativeDocumentMoniker": "TwentyOne\\Card.cs",
               "ToolTip": "C:\\Users\\joshmetzger\\Desktop\\Basic_C#_Programs\\TwentyOne\\TwentyOne\\Card.cs",
               "RelativeToolTip": "TwentyOne\\Card.cs",
-              "ViewState": "AgIAAAkAAAAAn5mZmZkFwBsAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAABgm5mZmZkowAgAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-19T16:36:23.247Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\joshmetzger\\Desktop\\Basic_C#_Programs\\TwentyOne\\TwentyOne\\Program.cs",
               "RelativeDocumentMoniker": "TwentyOne\\Program.cs",
               "ToolTip": "C:\\Users\\joshmetzger\\Desktop\\Basic_C#_Programs\\TwentyOne\\TwentyOne\\Program.cs",
               "RelativeToolTip": "TwentyOne\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAzczMzMzyvxAAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAzczMzEwSwA4AAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-19T16:32:26.01Z",
               "EditorCaption": ""
